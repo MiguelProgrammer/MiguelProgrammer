@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiguelProgrammer
 - 👀 I’m interested in World Java
-- 🌱 I’m currently learning Wolrd Spring Framework
+- 🌱 I’m currently learning World Spring Framework
 - 💞️ I'm looking to collaborate on projects that need my help
 - 📫 How to reach me on miguel.silva@mackenzista.com.br
 

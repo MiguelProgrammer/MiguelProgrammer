@@ -4,6 +4,8 @@
 - 💞️ I'm looking to collaborate on projects that need my help
 - 📫 How to reach me on miguel.silva@mackenzista.com.br
 
+<img src="https://i.imgur.com/PJucujk.png" alt="Java Learning Explorer" width="200">
+
 Once a Mackenzist, always a Mackenzist.
 
 <!---

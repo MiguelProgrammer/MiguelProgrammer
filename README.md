@@ -6,8 +6,7 @@
 - 💞️ I'm looking to collaborate on projects that need my help
 - 📫 How to reach me on miguel.silva@mackenzista.com.br
 
-Once a Mackenzist, always a Mackenzist.
-[Profile View Counter](https://komarev.com/ghpvc/?username=MiguelProgrammer)
+Once a Mackenzist, always a Mackenzist. ![Profile View Counter](https://komarev.com/ghpvc/?username=MiguelProgrammer)
 
 <!---
 MiguelProgrammer/MiguelProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

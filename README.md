@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/PJucujk.png" alt="Java Learning Explorer" width="350">
-
 - 👋 Hi, I’m @MiguelProgrammer
 - 👀 I’m interested in World Java
 - 🌱 I currently develop applications in the World Spring Framework
